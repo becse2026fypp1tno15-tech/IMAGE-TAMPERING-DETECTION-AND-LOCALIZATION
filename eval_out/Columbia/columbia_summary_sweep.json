@@ -1,0 +1,10 @@
+{
+  "dataset": "columbia",
+  "samples_with_mask": 1845,
+  "mean_best_precision": 0.4970127043562581,
+  "mean_best_recall": 0.8899940740507035,
+  "mean_best_f1": 0.590721589837173,
+  "mean_best_iou": 0.4812793194928086,
+  "mean_best_threshold": 0.32421456877885363,
+  "threshold_steps": 200
+}

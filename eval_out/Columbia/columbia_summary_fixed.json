@@ -1,0 +1,10 @@
+{
+  "dataset": "columbia",
+  "samples_with_mask": 1845,
+  "threshold": 0.5,
+  "precision": 0.46276259447042245,
+  "recall": 0.7942496355499148,
+  "f1": 0.5847978409475463,
+  "iou": 0.4132256609287713,
+  "num_images_total": 1845
+}
