@@ -1,0 +1,10 @@
+{
+  "dataset": "coverage",
+  "samples_with_mask": 100,
+  "mean_best_precision": 0.3027310053628389,
+  "mean_best_recall": 0.7206213552950653,
+  "mean_best_f1": 0.38419146838350576,
+  "mean_best_iou": 0.2524625252398496,
+  "mean_best_threshold": 0.23150753768844215,
+  "threshold_steps": 200
+}

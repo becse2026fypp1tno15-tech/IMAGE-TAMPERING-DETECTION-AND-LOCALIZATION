@@ -1,0 +1,10 @@
+{
+  "dataset": "coverage",
+  "samples_with_mask": 100,
+  "threshold": 0.5,
+  "precision": 0.289037436661284,
+  "recall": 0.3237849176191522,
+  "f1": 0.30542606821509044,
+  "iou": 0.18023768002591622,
+  "num_images_total": 200
+}
