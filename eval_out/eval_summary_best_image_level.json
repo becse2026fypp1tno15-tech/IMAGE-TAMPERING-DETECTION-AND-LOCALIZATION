@@ -1,0 +1,10 @@
+{
+  "val_samples": 498,
+  "mean_best_precision": 0.44252011843420436,
+  "mean_best_recall": 0.7325821601115623,
+  "mean_best_f1": 0.4713397574852358,
+  "mean_best_iou": 0.37209855715756035,
+  "mean_best_threshold": 0.1503804161369098,
+  "threshold_steps": 200,
+  "ckpt": "C:\\Users\\UG\\ImageManipulationLocalization\\checkpoints_image\\best_image_level.pth"
+}
